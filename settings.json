@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "Bubblegum",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.fontFamily": "Ricty Diminished",
+    "editor.fontSize": 15,
+    "vim.hlsearch": true,
+    "vim.leader": "<space>",
+    "vim.easymotion": true,
+    "vim.insertModeKeyBindings": [
+        {
+            "before":["j", "j"],
+            "after":["<Esc>"]
+        }
+    ],
+    "omnisharp.enableRoslynAnalyzers": true,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.wordWrap": "on",
+    "editor.wrappingIndent": "none",
+    "editor.codeLensFontSize": 11,
+    "editor.codeLens": false,
+    "cSpell.userWords": [
+        "Behaviour",
+        "Rigidbody"
+    ],
+    "files.trimTrailingWhitespace": true,
+    "workbench.iconTheme": "vscode-icons",
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "[python]": {
+        "editor.formatOnType": true
+    }
+}
